@@ -1,1 +1,0 @@
-# inside_edge_project
